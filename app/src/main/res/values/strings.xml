@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BadmintonCounter</string>
+    <string name="player_a">player A</string>
+    <string name="score_a">score</string>
+    <string name="add_point_a">+ point</string>
+    <string name="net_a">net</string>
+    <string name="service_a">S</string>
+    <string name="sets_won_a">Sets won:</string>
+    <string name="match_score_a">0</string>
+    <string name="player_b">player b</string>
+    <string name="score_b">score</string>
+    <string name="add_point_b">+ point</string>
+    <string name="net_b">net</string>
+    <string name="service_b">S</string>
+    <string name="sets_won_b">Sets won:</string>
+    <string name="match_score_b">0</string>
+    <string name="reset">reset</string>
+</resources>
